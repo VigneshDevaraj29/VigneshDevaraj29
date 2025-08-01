@@ -16,7 +16,7 @@ I'm passionate about designing high-performance and reliable hardware systems â€
 
 ## ðŸ“‚ Featured Projects  
 
-- [**Smart Home Automation (RTL-based project)**](#)  
+- [**Smart Home Automation (RTL-based project)**](https://github.com/VigneshDevaraj29/Vignesh_Projects/tree/main/Smart_Home_Automation)  
   Designed a Verilog-based Smart Home monitoring module, simulated using Vivado. Modularized RTL and TB for ease of extensibility.  
 
 - [**AHB to APB Bridge Controller**](#)  
