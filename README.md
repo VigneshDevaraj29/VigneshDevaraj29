@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! 
 
-I’m currently pursuing my **Master’s in Computer Engineering** concentrating on Digital System Design at **George Mason University** , specializing in ASIC/SoC Design, Design Verification, and Silicon Engineering.
+I’m currently pursuing my **Master’s in Computer Engineering** concentrating on **Digital System Design** at **George Mason University** , specializing in ASIC/SoC Design, Design Verification, and Silicon Engineering.
 
 I'm passionate about designing high-performance and reliable hardware systems — from RTL design and verification to integration and optimization across the full VLSI flow. My work bridges front-end logic design and architectural exploration with back-end synthesis, timing closure, and layout analysis. I focus on building scalable, power-efficient digital systems through robust coding practices, functional verification, and hardware-software co-design.
 
@@ -24,8 +24,19 @@ I'm passionate about designing high-performance and reliable hardware systems �
   <img src="https://img.shields.io/badge/Vivado-FPGA-lightgrey?style=for-the-badge&logo=xilinx" />
   <img src="https://img.shields.io/badge/ModelSim-Simulation-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RTL%20Design-ASIC/FPGA-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-blue?style=for-the-badge&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Matlab-Simulink-critical?style=for-the-badge&logo=mathworks" />
+  <img src="https://img.shields.io/badge/SystemVerilog-Assertions-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Constrained%20Random%20Verification-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional%20Coverage-lightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Synopsys-VCS-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cadence-Xcelium-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QuestaSim-Verification-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Synopsys-Design%20Compiler-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cadence-Genus/Innovus-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PrimeTime-STA-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spyglass-Linting-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCL/Makefile-Scripting-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git" />
 </p>
 
 ---
@@ -48,12 +59,11 @@ I'm passionate about designing high-performance and reliable hardware systems �
 
 - Digital System Design (FPGA/ASIC Flow)  
 - RTL Design and Verification (Verilog/SystemVerilog/UVM)  
-- FPGA Prototyping & Hardware Debugging  
-- Cloud Fundamentals (AWS, Azure)  
-- Coursework-driven specializations in **ASIC, Verification, and Neuromorphic Computing**  
+- FPGA Prototyping & Hardware Debugging    
+- Coursework-driven specializations in **Digital Syatem Design for VHDL, VLSI Design for ASIC**  
 
 ---
 
-
+📍 Fairfax,VA
 📫 Reach me at: vignesh29401vicky@gmail.com  
 🌐 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/vigneshdevaraj/))
