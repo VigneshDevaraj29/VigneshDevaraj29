@@ -14,6 +14,22 @@ I'm passionate about designing high-performance and reliable hardware systems �
 
 ---
 
+## 🛠 Technical SkillSet  
+
+<p>
+  <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-UVM-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C/C++-Intermediate-green?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Vivado-FPGA-lightgrey?style=for-the-badge&logo=xilinx" />
+  <img src="https://img.shields.io/badge/ModelSim-Simulation-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RTL%20Design-ASIC/FPGA-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-blue?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Matlab-Simulink-critical?style=for-the-badge&logo=mathworks" />
+</p>
+
+---
+
 ## 📂 Featured Projects  
 
 - [**AHB to APB Bridge Controller**](https://github.com/VigneshDevaraj29/Vignesh_Projects/tree/main/AHB_to_APB_Bridge_Controller)  
@@ -25,6 +41,18 @@ I'm passionate about designing high-performance and reliable hardware systems �
 
 - [**Smart Home Automation (RTL-based project)**](https://github.com/VigneshDevaraj29/Vignesh_Projects/tree/main/Smart_Home_Automation)  
   Designed a Verilog-based Smart Home monitoring module, simulated using Vivado. Modularized RTL and TB for ease of extensibility.  
+
+---
+
+## 📜 Certifications  
+
+- Digital System Design (FPGA/ASIC Flow)  
+- RTL Design and Verification (Verilog/SystemVerilog/UVM)  
+- FPGA Prototyping & Hardware Debugging  
+- Cloud Fundamentals (AWS, Azure)  
+- Coursework-driven specializations in **ASIC, Verification, and Neuromorphic Computing**  
+
+---
 
 
 📫 Reach me at: vignesh29401vicky@gmail.com  
