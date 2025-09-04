@@ -16,11 +16,15 @@ I'm passionate about designing high-performance and reliable hardware systems �
 
 ## 📂 Featured Projects  
 
+- [**AHB to APB Bridge Controller**](https://github.com/VigneshDevaraj29/Vignesh_Projects/tree/main/AHB_to_APB_Bridge_Controller)  
+  Implemented a complete AMBA bridge in Verilog with FSM logic, temporary register staging, and synchronization handling between two buses.
+
+- [FPGA LIF Neuron Model](https://github.com/VigneshDevaraj29/Vignesh_Projects/tree/main/FPGA_Based_LIF_Model)  
+  Designed and implemented a **Leaky Integrate-and-Fire (LIF) neuron** in Verilog on FPGA as part of **ECE 556 (Spring 2025)**.  
+  Demonstrated real-time spiking behavior with LED outputs, UART logging, fixed-point arithmetic, and validated through simulation and hardware testing.
+
 - [**Smart Home Automation (RTL-based project)**](https://github.com/VigneshDevaraj29/Vignesh_Projects/tree/main/Smart_Home_Automation)  
   Designed a Verilog-based Smart Home monitoring module, simulated using Vivado. Modularized RTL and TB for ease of extensibility.  
-
-- [**AHB to APB Bridge Controller**](#)  
-  Implemented a complete AMBA bridge in Verilog with FSM logic, temporary register staging, and synchronization handling between two buses.  
 
 
 📫 Reach me at: vignesh29401vicky@gmail.com  
